@@ -40,4 +40,5 @@ Below are the outcomes:
 1. Scatter plot:
 
 <a-entity graph="csv: Iris.csv; id: 1"></a-entity>
+![Alt text](1.PNG")
 
