@@ -39,6 +39,30 @@ Below are the outcomes:
 
 1. Scatter plot:
 
-<a-entity graph="csv: Iris.csv; id: 1"></a-entity>
-![Alt text](1.PNG")
+![GitHub Logo](/1.PNG) 
+
+![GitHub Logo](/2.PNG) 
+
+2. Box plot
+
+![GitHub Logo](/3.PNG) 
+
+3. Violin plot
+
+![GitHub Logo](/4.PNG)
+
+4.Pairplot
+
+![GitHub Logo](/5.PNG) 
+
+![GitHub Logo](/6.PNG) 
+
+5. Boxplot
+![GitHub Logo](/7.PNG)
+
+6.Andrews curves
+
+![GitHub Logo](/8.PNG) 
+
+
 
