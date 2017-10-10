@@ -1,5 +1,5 @@
 # Iris
-Python code used to visualize data from the Iris dataset from kagel
+Python code used to visualize data from the Iris dataset from kaggle
 ## Visualizing The Iris Dataset
 * In this project we sought to use the Iris dataset in an effort to visualize the data from the different variables into 
 a comprehensive format. 
@@ -32,7 +32,7 @@ iris.head()
 
 ## Visualition
 
-* we used multiple graphs to showcase data interaction between the different variables. These are scatter, box, violin, and pairplot,
+* We used multiple graphs to showcase data interaction between the different variables. These are scatter, box, violin, and pairplot,
 and Andrews curves.
 
 Below are the outcomes:
