@@ -1,6 +1,6 @@
 # Iris
 Python code used to visualize data from the Iris dataset from kagel
-## Visualizing The Irish Dataset
+## Visualizing The Iris Dataset
 * In this project we sought to use the Iris dataset in an effort to visualize the data from the different variables into 
 a comprehensive format. 
 First we imported matplotlib a plotting library, and used the 'inline' backend so that our matplotlib graphs
