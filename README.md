@@ -30,7 +30,7 @@ iris.head()
 |4|   4.6         |   3.1       |    1.5       |   0.2      | Iris-setosa |
 |5|   5.0         |    3.6      |    1.4       |   0.2      | Iris-setosa |
 
-## Visualition
+## Visualization
 
 * We used multiple graphs to showcase data interaction between the different variables. These are scatter, box, violin, and pairplot,
 and Andrews curves.
